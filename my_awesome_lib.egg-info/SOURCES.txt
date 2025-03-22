@@ -1,0 +1,13 @@
+README.md
+setup.py
+my_awesome_lib/__init__.py
+my_awesome_lib/data_utils.py
+my_awesome_lib/math_tools.py
+my_awesome_lib/text_processing.py
+my_awesome_lib.egg-info/PKG-INFO
+my_awesome_lib.egg-info/SOURCES.txt
+my_awesome_lib.egg-info/dependency_links.txt
+my_awesome_lib.egg-info/top_level.txt
+tests/test_data_utils.py
+tests/test_math_tools.py
+tests/test_text_processing.py
