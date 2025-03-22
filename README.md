@@ -1,1 +1,1 @@
-# my_awesome_lib.
+# my_awesome_lib
