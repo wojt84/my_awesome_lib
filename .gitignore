@@ -1,0 +1,20 @@
+# Ignorowanie plików Python cache
+__pycache__/
+*.pyc
+
+# Ignorowanie plików pytest cache
+.pytest_cache/
+
+# Ignorowanie folderów wirtualnego środowiska
+env/
+venv/
+
+# Ignorowanie plików konfiguracyjnych IDE
+.vscode/
+.idea/
+
+# Ignorowanie plików logów
+*.log
+
+# Ignorowanie innych niepotrzebnych plików
+*.swp
